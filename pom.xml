@@ -4,7 +4,7 @@
     <groupId>com.github.couchapp-takeout</groupId>
     <artifactId>plugins</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>couchapp-takeout-plugins</name>
     <url>http://github.com/ryanramage/couchapp-takeout-plugins</url>
     <build>
